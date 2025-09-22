@@ -29,8 +29,8 @@ This demo binary is self-compiled for learning purposes.
 No proprietary or illegal firmware is used.
 
 ## [IMPORTANT]How to demo
-- Click custom_elf.exe and enter "license12345" you will get access granted. But other words entered, you will get access denied.
-- Execute `/scripts/fix_patch.py`, custom_elf_fixed.exe will appear and replace the old one.
-- Click custom_elf_fixed.exe and enter any word you will all get access granted.
-- `/scripts/check_bytes.py` is for checking the bytes, it optional to click this .py file.
-- There is a screenshot showing that 
+- Click custom_elf.exe and enter "license12345" to get Access Granted. Any other input will result in Access Denied.
+- Execute /scripts/fix_patch.py; custom_elf_fixed.exe will be generated and replace the original file.
+- Click custom_elf_fixed.exe and enter any input—you will always get Access Granted.
+- /scripts/check_bytes.py can be used to verify the bytes; running this script is optional.
+- A screenshot is provided to illustrate this.
