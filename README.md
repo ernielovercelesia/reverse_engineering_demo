@@ -23,6 +23,7 @@ This repository contains a small reverse engineering demo to showcase my RE skil
 - `/analysis` → Ghidra screenshot
 - `/scripts` → Python script for patching
 - `report.md` → Detailed notes
+- `src` → Generate custom_elf.exe
 
 ## Disclaimer
 This demo binary is self-compiled for learning purposes.  
