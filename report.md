@@ -8,6 +8,7 @@
 - Ghidra: disassembly and function decompilation
 - Python: binary patching and verification
 - C: Making the custom_elf.exe
+- Visual Studio Code: IDE
 
 ### Findings
 - The binary checks if user input matches `"license12345"`.
