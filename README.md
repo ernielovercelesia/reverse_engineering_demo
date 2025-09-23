@@ -12,6 +12,8 @@ This repository contains a small reverse engineering demo to showcase my RE skil
 ## Tools Used
 - Ghidra (static analysis)
 - Python (patching / automation)
+- C (developing and modifying the executable)
+- Visual Studio Code (as the main coding environment / editor)
 
 ## Analysis Summary
 - The binary contains a simple license verification function.
